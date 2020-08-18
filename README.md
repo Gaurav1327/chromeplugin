@@ -1,3 +1,5 @@
+Chrome Plugin Built using React.js
+
 Developed a chrome Plugin to ease out appointment sharing process. Developed a React based component and integrated it as a webcomponent in the plugin. 
 
 Added OAuth2.0 for authentication as well. 
